@@ -1,0 +1,4 @@
+//
+/File/Main/FilePath
+/File/Main/Name
+/Exif/Photo/DateTimeOriginal
